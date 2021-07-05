@@ -4,4 +4,6 @@
 
 ## Tutorial
 
-see https://about.codecov.io/blog/getting-started-with-code-coverage-for-golang/
+see 
+https://about.codecov.io/blog/getting-started-with-code-coverage-for-golang/
+https://blog.seriesci.com/how-to-measure-code-coverage-in-go/
